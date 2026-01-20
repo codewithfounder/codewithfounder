@@ -1,4 +1,5 @@
 ### Hi there 👋
+👉 Follow my channel **[JustLikeCoder](https://www.youtube.com/@justlikecoder)** for coding tutorials, tips, and projects 🚀
 
 <!--
 **codewithfounder/codewithfounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
